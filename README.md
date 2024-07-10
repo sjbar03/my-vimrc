@@ -2,11 +2,11 @@
 My vim initialization file.
 
 # Coc Extensions:
-coc-html
-coc-vimlsp
-coc-tsserver
-coc-json
-coc-jedi
-coc-java
-coc-css
-coc-clangd
+* coc-html \n
+* coc-vimlsp \n
+* coc-tsserver \n
+* coc-json \n
+* coc-jedi \n
+* coc-java \n
+* coc-css \n
+* coc-clangd \n
